@@ -8,7 +8,7 @@ const rl = readline.createInterface({
 });
 
 rl.question('Digite o nome do arquivo (.txt): ', (nomeArquivo) => {
-  // Tenta ler o arquivo informado
+
   fs.readFile(nomeArquivo, 'utf-8', (err, data) => {
     if (err) {
       console.error('Erro ao ler o arquivo:', err);cls
