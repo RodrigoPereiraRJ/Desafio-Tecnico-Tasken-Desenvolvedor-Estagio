@@ -18,10 +18,12 @@ Este repositório contém as soluções para o **Desafio Técnico de Programaç�
 │   └── questao4.js  
 │  
 └── 📁 SQLServer  
-    ├── questao5.sql  
-    ├── questao6.sql  
-    ├── questao7.sql  
-    └── questao8.sql  
+    ├──  captura 2.png 
+    ├──  captura 3.png
+    ├──  captura 4.png
+    └──  captura 5.png
+    └──  captura 6.png
+      
 ```
 
 ## Descrição das Questões  
