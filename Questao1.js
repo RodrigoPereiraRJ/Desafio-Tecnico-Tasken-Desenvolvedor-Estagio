@@ -13,7 +13,7 @@ function desafioQuadrados(numero) {
 
 
     for (let i = 0; i < quadrados.length; i++) {
-        // Cria uma linha começando do índice atual até o final
+        
         let linha = quadrados.slice(i).join(' ');
         console.log(linha);
     }
